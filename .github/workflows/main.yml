@@ -22,7 +22,7 @@ concurrency:
 jobs:
   build:
     name: 
-    runs-on: macos-12
+    runs-on: macos-15
     permissions:
       contents: write
 
